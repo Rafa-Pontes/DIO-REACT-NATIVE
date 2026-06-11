@@ -1,6 +1,8 @@
 # 📱 DIO React Native — Portfólio de Estudos
 
-![Capa do Projeto](link-da-imagem)
+<p align="center">
+  <img src="https://assets.dio.me/WatYqmtqq5JBFrsN3Ouhuem-_4Ehm_QTGp2wpvFH4Iw/f:webp/h:120/q:80/L3RyYWNrcy9hMmQzOTgzZS0wMWRiLTRjZmItOTQwMi1mZGVkYWU3OTVhZjAucG5n" alt="Capa do Curso React Native DIO" width="280"/>
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native"/>
@@ -100,7 +102,3 @@ Desenvolvido com foco e consistência por **Rafael Pontes**.
 </a>
 
 ---
-
-## 📄 Licença
-
-Este projeto está sob a licença **MIT**. Consulte o arquivo [LICENSE](./LICENSE) para mais detalhes.
